@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-     <h1>Hello React.js</h1>
+     <h1>Hello feature-1</h1>
     </>
   )
 }
